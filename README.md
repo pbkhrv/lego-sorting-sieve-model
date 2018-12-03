@@ -1,4 +1,4 @@
-# lego-sorter-sieve-model
+# LEGO brick sorting sieve mesh model
 This is an OpenScad model of a sieve mesh to sort LEGO bricks by size, inspired by this [Bricks StackExchange post](https://bricks.stackexchange.com/a/1652).
 
 ## How to use this model
